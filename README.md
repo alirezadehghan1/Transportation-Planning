@@ -1,5 +1,5 @@
 # Transportation-Planning
-Comprehensive Analyzing of Pricing System Performance of an Online Taxi App Through Real Dataset Using Python.
+Comprehensive Analyzing of Pricing System Performance of an Online Taxi App/Ride Sharing Through Real Dataset Using Python.
 
 - Performed exploratory data analysis.
 - Identifying patterns and testing significance to draw data-driven conclusions. 
